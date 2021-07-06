@@ -1,8 +1,10 @@
 # Awesome Multi-label Image Recognition Paper List       
 
-:running:    **Keep updating** deep learning based multi-label image recognition (MLIC) methods with different settings.
+:running:    **Keep updating** deep learning based multi-label image recognition (MLIR) methods with different settings.
 
 Todo List:
+
+- [ ] More Tags
 
 - [ ] Performance Statistics
 - [ ] Datasets
