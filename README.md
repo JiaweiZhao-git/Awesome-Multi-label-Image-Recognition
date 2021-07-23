@@ -38,6 +38,8 @@ Todo List:
  **TIP** | **[MCAR]**  Learning to Discover Multi-Class Attentional Regions for Multi-Label Image Recognition | [Paper](https://arxiv.org/abs/2007.01755)/[Code](https://github.com/gaobb/MCAR) 
  **IJCAI** | **[GM-MLIC]** GM-MLIC: Graph Matching based Multi-Label Image Classification |        [Paper](https://arxiv.org/abs/2104.14762)/Code        
  **AAAI**  | **[DSDL]** Deep Semantic Dictionary Learning for Multi-label Image Classification | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16472)/[Code](https://github.com/ZFT-CQU/DSDL) 
+ arxiv | MlTr: Multi-label Classification with Transformer | [Paper](https://arxiv.org/abs/2106.06195)/[Code](https://github.com/starmemda/MlTr/) 
+ arxiv | Query2Label: A Simple Transformer Way to Multi-Label Classification | [Paper](https://arxiv.org/pdf/2107.10834.pdf)/[Code](https://github.com/SlongLiu/query2labels) 
 
 ## 2020       
 
