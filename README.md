@@ -31,6 +31,7 @@ Todo List:
 ## 2021       
  **Pub.** | **Title** | **Links** 
  :-: | :-  | :-: 
+ **ICCV** | **[TDRG]** Transformer-based Dual Relation Graph for Multi-label Image Recognition | Paper/Code 
  **ACM MM** | **[M3TR]** M3TR: Multi-modal Multi-label Recognition with Transformer | Paper/Code 
  **CVPR** | **[C-Trans]** General Multi-label Image Classification with Transformers | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lanchantin_General_Multi-Label_Image_Classification_With_Transformers_CVPR_2021_paper.pdf)/[Code](https://github.com/QData/C-Tran) 
  **TPAMI** | **[P-GCN]** Learning Graph Convolutional Networks for Multi-Label Recognition and Applications | [Paper](https://ieeexplore.ieee.org/abstract/document/9369105)/Code 
