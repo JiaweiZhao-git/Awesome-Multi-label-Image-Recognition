@@ -54,6 +54,7 @@ Todo List:
 |  **AAAI**  | **[MS-CMA]** Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification |        [Paper](https://arxiv.org/abs/1912.07872)/Code        |
 |  **TMM**   | **[DER]** Disentangling, Embedding and Ranking Label Cues for Multi-Label Image Recognition |  [Paper](https://ieeexplore.ieee.org/document/9122471)/Code  |
 |  **TMM**   | **[TS-GCN]** Joint Input and Output Space Learning for Multi-Label Image Classification |  [Paper](https://ieeexplore.ieee.org/document/9115821)/Code  |
+| **TPAMI**  | **[KGGR]** Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition |        [Paper](https://arxiv.org/abs/2009.09450)/Code        |
 
 ## 2019       
 
@@ -85,10 +86,10 @@ Todo List:
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-|   CVPR   | Learning From Noisy Large-Scale Datasets With Minimal Supervision | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Veit_Learning_From_Noisy_CVPR_2017_paper.pdf)/Code |
-|   CVPR   | Weakly Supervised Image Classification through Noise Regularization | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Weakly_Supervised_Image_Classification_Through_Noise_Regularization_CVPR_2019_paper.pdf)/Code |
-|   ACCV   | Multi-label Learning from Noisy Labels with Non-linear Feature Transformation | [Paper](https://vipl.ict.ac.cn/uploadfile/upload/2018111615590567.pdf)/Code |
-|   ICMR   | Confidence-basedWeighted Loss for Multi-label Classification with Missing Labels | [Paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390728)/Code |
+| **CVPR** | Learning From Noisy Large-Scale Datasets With Minimal Supervision | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Veit_Learning_From_Noisy_CVPR_2017_paper.pdf)/Code |
+| **CVPR** | Weakly Supervised Image Classification through Noise Regularization | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Weakly_Supervised_Image_Classification_Through_Noise_Regularization_CVPR_2019_paper.pdf)/Code |
+| **ACCV** | Multi-label Learning from Noisy Labels with Non-linear Feature Transformation | [Paper](https://vipl.ict.ac.cn/uploadfile/upload/2018111615590567.pdf)/Code |
+| **ICMR** | Confidence-basedWeighted Loss for Multi-label Classification with Missing Labels | [Paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390728)/Code |
 
 
 
@@ -96,9 +97,9 @@ Todo List:
 # Partial-label Multi-label Image Recognition  <a id="Partial-label Multi-label Image Recognition" class="anchor" href="Partial-label Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 ## 2019~2021
 
-| **Pub.** | **Title**                                                    |                          **Links**                           |
-| :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-|   CVPR   | Learning a Deep ConvNet for Multi-label Classification with Partial Labels | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.pdf)/Code |
-|   CVPR   | Interactive Multi-Label CNN Learning with Partial Labels     | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf)/Code |
-| NeurIPS  | Exploiting weakly supervised visual patterns to learn from partial annotations | [Paper](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf)/Code |
+|  **Pub.**   | **Title**                                                    |                          **Links**                           |
+| :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+|  **CVPR**   | Learning a Deep ConvNet for Multi-label Classification with Partial Labels | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.pdf)/Code |
+|  **CVPR**   | Interactive Multi-Label CNN Learning with Partial Labels     | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf)/Code |
+| **NeurIPS** | Exploiting weakly supervised visual patterns to learn from partial annotations | [Paper](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf)/Code |
 
