@@ -20,6 +20,7 @@ Todo List:
 1. <a href="#Multi-label Image Recognition"> Multi-label Image Recognition </a>
 2. <a href="#Noisy-label Multi-label Image Recognition"> Noisy-label Multi-label Image Recognition </a>
 3. <a href="#Partial-label Multi-label Image Recognition"> Partial-label Multi-label Image Recognition </a>
+4. <a href="#Zero-shot Multi-label Image Recognition"> Zero-shot Multi-label Image Recognition </a>
 
 
 ------
@@ -33,6 +34,7 @@ Todo List:
  :-: | :-  | :-: 
  **ICCV** | **[TDRG]** Transformer-based Dual Relation Graph for Multi-label Image Recognition | Paper/Code 
  **ICCV** | **[ASL]** Asymmetric Loss For Multi-Label Classification | [Paper](https://arxiv.org/abs/2009.14119)/[Code](https://github.com/Alibaba-MIIL/ASL) 
+ **ICCV** | **[CSRA]** Residual Attention: A Simple but Effective Method for Multi-Label Recognition | [Paper](https://arxiv.org/abs/2108.02456)/Code 
  **ACM MM** | **[M3TR]** M3TR: Multi-modal Multi-label Recognition with Transformer | Paper/Code 
  **CVPR** | **[C-Trans]** General Multi-label Image Classification with Transformers | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lanchantin_General_Multi-Label_Image_Classification_With_Transformers_CVPR_2021_paper.pdf)/[Code](https://github.com/QData/C-Tran) 
  **TPAMI** | **[P-GCN]** Learning Graph Convolutional Networks for Multi-Label Recognition and Applications | [Paper](https://ieeexplore.ieee.org/abstract/document/9369105)/Code 
@@ -104,3 +106,15 @@ Todo List:
 |  **CVPR**   | Interactive Multi-Label CNN Learning with Partial Labels     | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf)/Code |
 | **NeurIPS** | Exploiting weakly supervised visual patterns to learn from partial annotations | [Paper](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf)/Code |
 
+
+
+# Zero-shot Multi-label Image Recognition  <a id="Zero-shot Multi-label Image Recognition" class="anchor" href="Zero-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+
+## 2018~2021
+
+| **Pub.** | **Title**                                                    |                          **Links**                           |
+| :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **CVPR** | Fast Zero-Shot Image Tagging                                 | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.pdf) |
+| **CVPR** | Multi-Label Zero-Shot Learning with Structured Knowledge Graphs | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)/[Code](https://github.com/Phoenix1327/ML-ZSL) |
+| **CVPR** | A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_A_Shared_Multi-Attention_Framework_for_Multi-Label_Zero-Shot_Learning_CVPR_2020_paper.pdf)/Code |
+| **ICCV** | Semantic Diversity Learning for Zero-Shot Multi-label Classification | [Paper](https://arxiv.org/abs/2105.05926)/[Code](https://github.com/Alibaba-MIIL/ZS_SDL) |
