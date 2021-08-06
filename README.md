@@ -114,7 +114,7 @@ Todo List:
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **CVPR** | Fast Zero-Shot Image Tagging                                 | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.pdf) |
+| **CVPR** | Fast Zero-Shot Image Tagging                                 | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.pdf)/Code |
 | **CVPR** | Multi-Label Zero-Shot Learning with Structured Knowledge Graphs | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)/[Code](https://github.com/Phoenix1327/ML-ZSL) |
 | **CVPR** | A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_A_Shared_Multi-Attention_Framework_for_Multi-Label_Zero-Shot_Learning_CVPR_2020_paper.pdf)/Code |
 | **ICCV** | Semantic Diversity Learning for Zero-Shot Multi-label Classification | [Paper](https://arxiv.org/abs/2105.05926)/[Code](https://github.com/Alibaba-MIIL/ZS_SDL) |
