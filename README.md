@@ -1,5 +1,7 @@
 # Awesome Multi-label Image Recognition Paper List       
 
+:triangular_flag_on_post: **NOTE**: Future updates can be found in [iCVTEAM/Awesome-Multi-label-Image-Recognition](https://github.com/iCVTEAM/Awesome-Multi-label-Image-Recognition) maintained by our lab.
+
 :running:    **Keep updating** deep learning based multi-label image recognition (MLIR) methods with different settings.
 
 Todo List:
