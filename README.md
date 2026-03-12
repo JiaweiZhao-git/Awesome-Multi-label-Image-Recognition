@@ -32,6 +32,21 @@ Todo List:
 
 # Multi-label Image Recognition <a id="Multi-label Image Recognition" class="anchor" href="Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 
+## 2022~2025
+ **Pub.** | **Title** | **Links** 
+ :-: | :-  | :-: 
+ arxiv | Incomplete Multi-Label Image Recognition by Co-learning Semantic-Aware Features and Label Recovery | [Paper](https://arxiv.org/abs/2510.10055)/Code
+ arxiv | Learning Semantic-Aware Threshold for Multi-Label Image Recognition with Partial Labels | [Paper](https://arxiv.org/abs/2507.23263)/Code
+ arxiv | Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning | [Paper](https://arxiv.org/abs/2506.10575)/Code
+ arxiv | Text-Region Matching for Multi-Label Image Recognition with Missing Labels | [Paper](https://arxiv.org/abs/2407.18520)/Code
+ arxiv | SSPA: Split-and-Synthesize Prompting with Gated Alignments for Multi-Label Image Recognition | [Paper](https://arxiv.org/abs/2407.20920)/Code
+ arxiv | Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning | [Paper](https://arxiv.org/abs/2403.01209)/Code
+ arxiv | PVLR: Prompt-driven Visual-Linguistic Representation Learning for Multi-Label Image Recognition | [Paper](https://arxiv.org/abs/2401.17881)/Code
+ arxiv | GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for Multi-Label Image Recognition | [Paper](https://arxiv.org/abs/2308.14378)/Code
+ arxiv | DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition with Limited Annotations | [Paper](https://arxiv.org/abs/2308.01890)/Code
+ arxiv | Semantic Contrastive Bootstrapping for Single-positive Multi-label Recognition | [Paper](https://arxiv.org/abs/2307.07680)/[Code](https://github.com/iCVTEAM/Scob)
+ **CVPR** | Texts as Images in Prompt Tuning for Multi-Label Image Recognition | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Texts_as_Images_in_Prompt_Tuning_for_Multi-Label_Image_Recognition_CVPR_2023_paper.html)/Code
+
 ## 2021       
  **Pub.** | **Title** | **Links** 
  :-: | :-  | :-: 
